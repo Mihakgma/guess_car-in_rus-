@@ -3,10 +3,10 @@
 
 # In[4]:
 
+import random
 
 def guess_car():
     
-    import random
     
     doc_str = """
     Данная программка загадывает случайным образом 3 
